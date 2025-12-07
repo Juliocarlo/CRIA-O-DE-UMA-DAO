@@ -1,4 +1,4 @@
-# CRIA-O-DE-UMA-DAO
+# CRIACAO-DE-UMA-DAO
 Exemplo da criação de uma DAO, conforme solicitado no BOOTCAMP BINANCE BLOCKCHAIN
 
 DAO Filantrópica — Projeto Completo
